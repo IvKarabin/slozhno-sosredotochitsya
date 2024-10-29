@@ -22,7 +22,8 @@ p {
   margin: 0;
 }
 
-ul {
+ul,
+ol {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -35,6 +36,7 @@ picture {
 
 button,
 a {
+  text-decoration: none;
   color: currentColor;
   font-family: inherit;
   font-size: inherit;
