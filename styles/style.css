@@ -27,6 +27,7 @@
   grid-template-rows: 1fr min-content 1fr;
   position: relative;
   min-block-size: 668px;
+  block-size: 100vh;
   padding: var(--page-padding);
 }
 
@@ -370,6 +371,7 @@
   display: grid;
   position: relative;
   min-block-size: 668px;
+  block-size: 100vh;
 }
 
 .footer__title {

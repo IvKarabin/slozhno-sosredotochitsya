@@ -31,11 +31,6 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --font-family: "IBM Plex mono", monospace;
-    --main-font-weight: 400;
-    --large-font-weight: 700;
-    --main-font-size: 18px;
-
     --bg-image: url("../images/cover-image-light.png");
 
     --page-bg-color: #fff1f7;
@@ -54,17 +49,5 @@
     --lamp-decorated-zone-color: transparent;
 
     --outline: 1px solid rgba(50, 49, 45, 0.4);
-
-    --page-padding: 10px;
-    --page-gap: 40px;
-    --main-sections-gap: 50px;
-  }
-}
-
-@media (width >= 768px) {
-  :root {
-    --page-padding: 20px;
-    --page-gap: 60px;
-    --main-sections-gap: 80px;
   }
 }
