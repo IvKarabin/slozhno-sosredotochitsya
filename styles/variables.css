@@ -16,6 +16,7 @@
   --card-text-color: #f1b2ce;
   --title-text-color: var(--accent-color);
   --title-bg-accent-color: var(--accent-color);
+  --header-buttons-color: var(--accent-color);
   --header-text: var(--accent-color);
   --links-shadow:var(--accent-color);
 
